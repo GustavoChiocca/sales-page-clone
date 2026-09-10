@@ -979,7 +979,7 @@ function Index() {
             <span className="ml-4 text-2xl transition-transform duration-300 group-open:rotate-45 text-pv-text-muted font-normal">+</span>
           </summary>
           <p className="mt-4 text-sm sm:text-base text-pv-text-muted whitespace-pre-line leading-relaxed">
-            Sim! A estrutura do material foi feita justamente para dar o passo a passo claro (Sintoma -> O que testar primeiro -> Próximo passo), evitando que você fique perdido.
+            Sim! A estrutura do material foi feita justamente para dar o passo a passo claro (Sintoma -&gt; O que testar primeiro -&gt; Próximo passo), evitando que você fique perdido.
           </p>
         </details>
         
