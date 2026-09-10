@@ -19,6 +19,26 @@
  */
 
 @theme inline {
+  /* Landing page (pv) design tokens */
+  --color-pv-primary: #0a2540;
+  --color-pv-accent: #d97706;
+  --color-pv-bg: #f1f5f9;
+  --color-pv-text: #1b2733;
+  --color-pv-text-muted: #41505f;
+  --color-pv-cream: #f1e7d2;
+  --color-pv-cream-soft: #eadfc6;
+  --color-pv-tan: #e4dac6;
+  --color-pv-pink: #f6f1e6;
+  --color-pv-mint: #eaf4ec;
+  --color-pv-mint-border: #c2dec9;
+  --color-pv-success: #12a150;
+  --color-pv-gold: #c9a24b;
+  --color-pv-danger: #c0392b;
+  --font-heading: "Poppins", "Inter", sans-serif;
+  --font-body: "Inter", sans-serif;
+  --radius-pv: 16px;
+  --container-pv-container: 1200px;
+
   --radius-sm: calc(var(--radius) - 4px);
   --radius-md: calc(var(--radius) - 2px);
   --radius-lg: var(--radius);
@@ -141,4 +161,33 @@
     background-color: var(--color-background);
     color: var(--color-foreground);
   }
+}
+
+/* Marquee (carrossel infinito) */
+@keyframes marquee-scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+@utility marquee-track {
+  display: flex;
+  width: max-content;
+  animation: marquee-scroll 25s linear infinite;
+
+  &:hover {
+    animation-play-state: paused;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+[id^="secao-"],
+#planos {
+  scroll-margin-top: 40px;
 }
