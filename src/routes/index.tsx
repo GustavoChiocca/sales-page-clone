@@ -89,19 +89,19 @@ function Index() {
       <div className="max-w-2xl mx-auto text-left mb-8 bg-white/5 p-6 rounded-pv border border-white/10">
         <ul className="space-y-4">
           <li className="flex items-start gap-3">
-            <svg className="h-5 w-5 shrink-0 text-pv-success mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></path></svg>
+            <svg className="h-5 w-5 shrink-0 text-pv-success mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></svg>
             <span className="text-sm sm:text-base font-semibold text-pv-cream">Sintoma, causas prováveis, verificações e próximo passo na mesma página</span>
           </li>
           <li className="flex items-start gap-3">
-            <svg className="h-5 w-5 shrink-0 text-pv-success mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></path></svg>
+            <svg className="h-5 w-5 shrink-0 text-pv-success mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></svg>
             <span className="text-sm sm:text-base font-semibold text-pv-cream">Índice por sintoma para achar o diagnóstico em segundos</span>
           </li>
           <li className="flex items-start gap-3">
-            <svg className="h-5 w-5 shrink-0 text-pv-success mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></path></svg>
+            <svg className="h-5 w-5 shrink-0 text-pv-success mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></svg>
             <span className="text-sm sm:text-base font-semibold text-pv-cream">Organizado por sintoma e por sistema, não por marca, então vale para os modelos que você atende</span>
           </li>
           <li className="flex items-start gap-3">
-            <svg className="h-5 w-5 shrink-0 text-pv-success mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></path></svg>
+            <svg className="h-5 w-5 shrink-0 text-pv-success mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></svg>
             <span className="text-sm sm:text-base font-semibold text-pv-cream">Versão digital e imprimível, com acesso vitalício</span>
           </li>
         </ul>
@@ -273,7 +273,7 @@ function Index() {
         
         <div className="p-6 rounded-[14px] flex gap-3 items-start transition-transform duration-300 hover:scale-[1.03] bg-pv-mint border border-pv-mint-border">
           <span className="shrink-0 mt-1">
-            <svg className="h-4 w-4 text-pv-success" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></path></svg>
+            <svg className="h-4 w-4 text-pv-success" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></svg>
           </span>
           <div>
             <h3 className="font-black font-heading uppercase text-lg mb-2 text-pv-text tracking-tight">Parar de diagnosticar no chute</h3>
@@ -283,7 +283,7 @@ function Index() {
         
         <div className="p-6 rounded-[14px] flex gap-3 items-start transition-transform duration-300 hover:scale-[1.03] bg-pv-mint border border-pv-mint-border">
           <span className="shrink-0 mt-1">
-            <svg className="h-4 w-4 text-pv-success" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></path></svg>
+            <svg className="h-4 w-4 text-pv-success" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></svg>
           </span>
           <div>
             <h3 className="font-black font-heading uppercase text-lg mb-2 text-pv-text tracking-tight">Saber por onde começar</h3>
@@ -293,7 +293,7 @@ function Index() {
         
         <div className="p-6 rounded-[14px] flex gap-3 items-start transition-transform duration-300 hover:scale-[1.03] bg-pv-mint border border-pv-mint-border">
           <span className="shrink-0 mt-1">
-            <svg className="h-4 w-4 text-pv-success" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></path></svg>
+            <svg className="h-4 w-4 text-pv-success" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></svg>
           </span>
           <div>
             <h3 className="font-black font-heading uppercase text-lg mb-2 text-pv-text tracking-tight">Confirmar antes de trocar o componente</h3>
@@ -303,7 +303,7 @@ function Index() {
         
         <div className="p-6 rounded-[14px] flex gap-3 items-start transition-transform duration-300 hover:scale-[1.03] bg-pv-mint border border-pv-mint-border">
           <span className="shrink-0 mt-1">
-            <svg className="h-4 w-4 text-pv-success" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></path></svg>
+            <svg className="h-4 w-4 text-pv-success" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></svg>
           </span>
           <div>
             <h3 className="font-black font-heading uppercase text-lg mb-2 text-pv-text tracking-tight">Não parar o atendimento para procurar vídeo</h3>
@@ -313,7 +313,7 @@ function Index() {
         
         <div className="p-6 rounded-[14px] flex gap-3 items-start transition-transform duration-300 hover:scale-[1.03] bg-pv-mint border border-pv-mint-border">
           <span className="shrink-0 mt-1">
-            <svg className="h-4 w-4 text-pv-success" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></path></svg>
+            <svg className="h-4 w-4 text-pv-success" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></svg>
           </span>
           <div>
             <h3 className="font-black font-heading uppercase text-lg mb-2 text-pv-text tracking-tight">Falar com segurança na frente do cliente</h3>
@@ -323,7 +323,7 @@ function Index() {
         
         <div className="p-6 rounded-[14px] flex gap-3 items-start transition-transform duration-300 hover:scale-[1.03] bg-pv-mint border border-pv-mint-border">
           <span className="shrink-0 mt-1">
-            <svg className="h-4 w-4 text-pv-success" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></path></svg>
+            <svg className="h-4 w-4 text-pv-success" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></svg>
           </span>
           <div>
             <h3 className="font-black font-heading uppercase text-lg mb-2 text-pv-text tracking-tight">Girar a bancada mais rápido</h3>
@@ -364,55 +364,55 @@ function Index() {
         
         <ul className="divide-y divide-white/10 text-sm sm:text-base">
           <li className="flex gap-3 items-start py-3.5">
-            <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></path></svg>
+            <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></svg>
             <span className="font-extrabold text-white">Mais de 120 diagnósticos de defeitos em impressoras (EcoTank, Jato de Tinta e Laser):</span>
           </li>
           <li className="flex gap-3 items-start py-3.5">
-            <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></path></svg>
+            <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></svg>
             <span className="font-bold text-white">Bloco 1, Falhas de Impressão e Qualidade: riscos brancos, falha de cor, borrado, efeito fantasma, impressão fraca ou falhas recorrentes.</span>
           </li>
           <li className="flex gap-3 items-start py-3.5">
-            <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></path></svg>
+            <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></svg>
             <span className="font-bold text-white">Bloco 2, Tracionamento e Papel: não puxa papel (pick-up roller), puxa várias folhas, amassa a folha, atolamento no meio do percurso.</span>
           </li>
           <li className="flex gap-3 items-start py-3.5">
-            <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></path></svg>
+            <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></svg>
             <span className="font-bold text-white">Bloco 3, Alimentação e Placa Lógica: impressora não liga, reinicia sozinha, pisca luzes sem código, travada no boot ou erro de comunicação.</span>
           </li>
           <li className="flex gap-3 items-start py-3.5">
-            <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></path></svg>
+            <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></svg>
             <span className="font-bold text-white">Bloco 4, Sistema de Tintas e Toners: ar nas mangueiras (bulky/EcoTank), cartucho/toner não reconhecido, vazamento interno, lixeira cheia (reset).</span>
           </li>
           <li className="flex gap-3 items-start py-3.5">
-            <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></path></svg>
+            <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></svg>
             <span className="font-bold text-white">Bloco 5, Unidade Fusora e Laser (Laserjet): película rasgada, toner não fixa no papel (sai na mão), bucha gasta, lâmpada queimada.</span>
           </li>
           <li className="flex gap-3 items-start py-3.5">
-            <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></path></svg>
+            <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></svg>
             <span className="font-bold text-white">Bloco 6, Ruídos e Trava Mecânica: estalos fortes nas engrenagens, motor de passo forçado, carro de impressão batendo nas laterais.</span>
           </li>
           <li className="flex gap-3 items-start py-3.5">
-            <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></path></svg>
+            <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></svg>
             <span className="font-bold text-white">Bloco 7, Scanner e Cópia: erro de scanner, lâmpada travada, cópia desalinhada, riscos pretos no escaneamento.</span>
           </li>
           <li className="flex gap-3 items-start py-3.5">
-            <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></path></svg>
+            <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></svg>
             <span className="font-bold text-white">Bloco 8, Tabela de Códigos de Erro: decodificação de erros comuns (Epson, HP, Canon, Brother) com testes práticos antes de condenar peças.</span>
           </li>
           <li className="flex gap-3 items-start py-3.5">
-            <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></path></svg>
+            <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></svg>
             <span className="font-bold text-white">Índice de navegação por sintoma</span>
           </li>
           <li className="flex gap-3 items-start py-3.5">
-            <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></path></svg>
+            <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></svg>
             <span className="font-bold text-white">Guia inicial de utilização na bancada</span>
           </li>
           <li className="flex gap-3 items-start py-3.5">
-            <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></path></svg>
+            <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></svg>
             <span className="font-bold text-white">Arquivos em alta resolução (Versão Celular/Tablet e Versão A4 Imprimível)</span>
           </li>
           <li className="flex gap-3 items-start py-3.5">
-            <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></path></svg>
+            <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></svg>
             <span className="font-extrabold text-white">Download imediato e Acesso Vitalício</span>
           </li>
         </ul>
@@ -626,23 +626,23 @@ function Index() {
             <p className="text-sm font-bold uppercase tracking-wider text-pv-text-muted">Você recebe:</p>
             <ul className="divide-y divide-black/10 text-sm sm:text-base">
               <li className="flex gap-3 items-start py-2">
-                <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></path></svg>
+                <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></svg>
                 <span>Mais de 120 Diagnósticos para Impressoras</span>
               </li>
               <li className="flex gap-3 items-start py-2">
-                <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></path></svg>
+                <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></svg>
                 <span>Sintoma, causas, verificações e próximo passo</span>
               </li>
               <li className="flex gap-3 items-start py-2">
-                <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></path></svg>
+                <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></svg>
                 <span className="text-left">Índice por sintoma e guia inicial</span>
               </li>
               <li className="flex gap-3 items-start py-2">
-                <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></path></svg>
+                <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></svg>
                 <span>Versão digital e imprimível</span>
               </li>
               <li className="flex gap-3 items-start py-2">
-                <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></path></svg>
+                <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></svg>
                 <span>Acesso imediato e vitalício</span>
               </li>
             </ul>
@@ -654,7 +654,7 @@ function Index() {
               <p className="text-5xl sm:text-6xl font-black font-heading text-pv-success mt-1">R$ 17,90</p>
               <p className="text-sm text-pv-text-muted mt-1 font-medium">ou 4x de R$4,48</p>
               <p className="text-sm sm:text-base text-pv-success mt-2 font-bold flex items-center justify-center gap-1">
-                <svg className="h-4 w-4 shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" /></path></svg>
+                <svg className="h-4 w-4 shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" /></svg>
                 Você economiza <strong>R$30,00</strong>
               </p>
             </div>
@@ -701,51 +701,51 @@ function Index() {
             </div>
             <ul className="divide-y divide-white/10 text-sm sm:text-base">
               <li className="flex gap-3 items-start py-2">
-                <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></path></svg>
+                <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></svg>
                 <span className="text-white/90">Mais de 120 Diagnósticos para Impressoras</span>
               </li>
               <li className="flex gap-3 items-start py-2">
-                <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></path></svg>
+                <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></svg>
                 <span className="text-white/90">Sintoma, causas, verificações e próximo passo</span>
               </li>
               <li className="flex gap-3 items-start py-2">
-                <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></path></svg>
+                <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></svg>
                 <span className="text-white/90">Índice por sintoma e guia inicial</span>
               </li>
               <li className="flex gap-3 items-start py-2">
-                <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></path></svg>
+                <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></svg>
                 <span className="text-white/90">Versão digital e imprimível</span>
               </li>
               <li className="flex gap-3 items-start py-2">
-                <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></path></svg>
+                <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></svg>
                 <span className="text-white/90 font-medium">🎁 Bônus #1 (+40 Diagnósticos Intermitentes)</span>
               </li>
               <li className="flex gap-3 items-start py-2">
-                <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></path></svg>
+                <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></svg>
                 <span className="text-white/90 font-medium">🎁 Bônus #2 (Mapa de Parafusos e Travas Ocultas)</span>
               </li>
               <li className="flex gap-3 items-start py-2">
-                <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></path></svg>
+                <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></svg>
                 <span className="text-white/90 font-medium">🎁 Bônus #3 (Tabela de Medição de Placa e Fusíveis)</span>
               </li>
               <li className="flex gap-3 items-start py-2">
-                <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></path></svg>
+                <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></svg>
                 <span className="text-white/90 font-medium">🎁 Bônus #4 (Guia de Desentupimento e Lubrificação)</span>
               </li>
               <li className="flex gap-3 items-start py-2">
-                <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></path></svg>
+                <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></svg>
                 <span className="text-white/90 font-medium">🎁 Bônus #5 (Checklist Antes de Condenar Peças)</span>
               </li>
               <li className="flex gap-3 items-start py-2">
-                <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></path></svg>
+                <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></svg>
                 <span className="text-white/90 font-medium">🎁 Bônus #6 (Guia "Não Troque a Peça Errada")</span>
               </li>
               <li className="flex gap-3 items-start py-2">
-                <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></path></svg>
+                <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></svg>
                 <span className="text-white/80">Atualizações futuras da biblioteca</span>
               </li>
               <li className="flex gap-3 items-start py-2">
-                <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></path></svg>
+                <svg className="h-5 w-5 text-pv-success shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" /></svg>
                 <span className="font-extrabold text-white">Acesso vitalício a todo o material</span>
               </li>
             </ul>
@@ -757,7 +757,7 @@ function Index() {
               <p className="text-5xl sm:text-6xl font-black font-heading text-pv-success mt-1">R$ 37,90</p>
               <p className="text-sm text-white/80 mt-1 font-medium">ou 6x de R$7,22</p>
               <p className="text-sm sm:text-base text-pv-success mt-2 font-bold flex items-center justify-center gap-1">
-                <svg className="h-4 w-4 shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" /></path></svg>
+                <svg className="h-4 w-4 shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" /></svg>
                 Você economiza <strong>R$110,00</strong>
               </p>
             </div>
